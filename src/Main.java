@@ -25,9 +25,9 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Showroom showroom[] = new Showroom[5];
-        Employees employee[] = new Employees[5];
-        Carsinfo car[] = new Carsinfo[5];
+        Showroom []showroom= new Showroom[5];
+        Employees[] employee = new Employees[5];
+        Carsinfo[] car = new Carsinfo[5];
         int car_counter = 0;
         int showroom_counter = 0;
         int employees_counter = 0;
