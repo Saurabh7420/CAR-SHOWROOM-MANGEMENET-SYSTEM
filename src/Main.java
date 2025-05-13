@@ -2,8 +2,9 @@ import java.util.*;
 import java.lang.*;
 
 interface utility{
-    void get_details();
-     void set_details();
+   // void get_details();
+
+   //  void set_details();
 }
 
 
