@@ -1,5 +1,5 @@
-import java.sql.SQLOutput;
-import java.util.Scanner;
+
+import java.util.*;
 public class Showroom implements utility{
     String showroom_name;
     String showroom_location;
