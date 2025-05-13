@@ -1,8 +1,8 @@
 PROJECT TITLE- CAR SHOWROOM MANAGEMENT SYSTEM
 
-GROUP-7
+Team name - Team SANIYA.
 
-The Car Showroom Management System is a Java-based application developed by  GROUPD - 7
+The Car Showroom Management System is a Java-based application developed by  Team SANIYA,
 to streamline and enhance the daily operations of a car dealership. Designed with Object-Oriented Programming (OOP) principles,
 this system efficiently manages the core components of a showroom—vehicles, employees, and the showroom infrastructure itself. By centralizing data management
 into a single, user-friendly platform, the system reduces the risk of human error, cuts down on manual labor, and improves overall organizational efficiency.
